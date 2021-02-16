@@ -1,0 +1,25 @@
+{
+
+  "name": "RLCS.Trade",
+
+  "description": "NA",
+
+  "version": "0.0.0",
+
+  "main": "bot.js",
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "12.5.1",
+
+    "firebase": "9.3.0"
+
+  }
+
+}
